@@ -9,6 +9,6 @@ from the terminal execute these commands:
 when the execution is finished, some default json values will be added in the database.
 
 For mongo:
-1. Go to the installed folder of mongodb
+1. Go to the bin folder where mongodb is installed.
 2. Create a folder with the name movieList.
-3. Then open powershell in the mongo install folder and execute this .\mongod.exe --dbpath movieList
+3. Then open powershell in bin and execute this .\mongod.exe --dbpath movieList
