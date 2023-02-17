@@ -1,0 +1,101 @@
+[{
+    "count": 1592,
+    "rating": 7.8,
+    "category": "Psychological Thriller",
+    "director": "Todd Phillips",
+    "name": "Joker",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "release": "2019-10-04",
+    "description": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker."
+},
+    {
+        "count": 2376,
+        "rating": 8.1,
+        "category": "Science fiction action",
+        "director": "Christopher Nolan",
+        "name": "Inception",
+        "poster": "https://flxt.tmsimg.com/assets/p7825626_p_v8_af.jpg",
+        "release": "2010-07-16",
+        "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O."
+    },
+    {
+        "count": 2638,
+        "rating": 8.5,
+        "category": "Drama",
+        "director": "Frank Darabont",
+        "name": "The Shawshank Redemption",
+        "poster": "https://img.fruugo.com/product/3/62/14284623_max.jpg",
+        "release": "1994-10-14",
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+    },
+    {
+        "count": 1249,
+        "rating": 7.3,
+        "category": "Action",
+        "director": "Justin Lin",
+        "name": "Fast & Furious 9",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjI0NmFkYzEtNzU2YS00NTg5LWIwYmMtNmQ1MTU0OGJjOTMxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg",
+        "release": "2021-06-25",
+        "description": "Cipher enlists the help of Jakob, Dom's younger brother to take revenge on Dom and his team."
+    },
+    {
+        "count": 3110,
+        "rating": 8.8,
+        "category": "Action",
+        "director": "Christopher Nolan",
+        "name": "The Dark Knight",
+        "poster": "https://static.posters.cz/image/750/affiches-et-posters/batman-dark-knight-joker-i13945.jpg",
+        "release": "2008-07-18",
+        "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+    },
+    {
+        "count": 2109,
+        "rating": 7.9,
+        "category": "Horror",
+        "director": "James Wan",
+        "name": "The Conjuring",
+        "poster": "https://m.media-amazon.com/images/I/81yAfVk+7UL._AC_SY606_.jpg",
+        "release": "2013-07-19",
+        "description": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse."
+    },
+    {
+        "count": 1743,
+        "rating": 8.2,
+        "category": "Drama",
+        "director": "Robert Zemeckis",
+        "name": "Forrest Gump",
+        "poster": "https://m.media-amazon.com/images/I/81NAb0T7gxL._AC_SY550_.jpg",
+        "release": "1994-07-06",
+        "description": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold through the perspective of an Alabama man with an IQ of 75."
+    },
+    {
+        "count": 2916,
+        "rating": 8.9,
+        "category": "Drama",
+        "director": "Francis Ford Coppola",
+        "name": "The Godfather",
+        "poster": "https://m.media-amazon.com/images/I/510L5ypQBdL._AC_UF1000,1000_QL80_.jpg",
+        "release": "1972-03-24",
+        "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+    },
+    {
+        "count": 1567,
+        "rating": 7.7,
+        "category": "Romantic comedy",
+        "director": "Jon M. Chu",
+        "name": "Crazy Rich Asians",
+        "poster": "https://m.media-amazon.com/images/I/81nGfPd2HiL._AC_SY500_.jpg",
+        "release": "2018-08-15",
+        "description": "This contemporary romantic comedy, based on a global bestseller, follows native New Yorker Rachel Chu to Singapore to meet her boyfriend's family."
+    },
+    {
+        "count": 2134,
+        "rating": 8.3,
+        "category": "Biography",
+        "director": "David Fincher",
+        "name": "The Social Network",
+        "poster": "https://m.media-amazon.com/images/I/518zV7F39qL._AC_.jpg",
+        "release": "2010-10-01",
+        "description": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea, and by the co-founder who was later squeezed out of the business."
+    }
+]

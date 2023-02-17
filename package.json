@@ -1,0 +1,30 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "api-gateway": "npm run dev --prefix ./api",
+    "movies-users":"npm run dev --prefix ./api/movies-users/",
+    "rating":"npm run dev --prefix ./api/rating/",
+    "start": "concurrently \"npm:movies-users\" \"npm:rating\" \"npm:api-gateway\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "concurrently": "^7.3.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "http-errors": "^2.0.0",
+    "mongoose": "^6.5.2",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.19",
+    "path": "^0.12.7",
+    "pg": "^8.7.3",
+    "sequelize": "^6.21.3"
+  }
+}
